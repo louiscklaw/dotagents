@@ -1,17 +1,17 @@
 ---
-# /home/logic/.agents/003_source/agents/999_sentry.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/999_sentry.md
 # defined by 003_source/agents
 
 name: 999_sentry
 description: Read-only task auditor that verifies completed work against the Sentry Standard and issues PASS/FAIL/WARN verdicts with evidence. Use for progress monitoring and completeness audits.
 
-# /home/logic/.agents/008_tools_customize/.codebuddy/agents/frontmatter/999_sentry.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.codebuddy/agents/frontmatter/999_sentry.md
 # section specific configuration for codebuddy
 mainAgent: false
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/999_sentry.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/999_sentry.md -->
 
 # Role
 

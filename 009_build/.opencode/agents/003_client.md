@@ -1,11 +1,11 @@
 ---
-# /home/logic/.agents/003_source/agents/003_client.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/003_client.md
 # defined by 003_source/agents
 
 name: 003_client
 description: Elite frontend engineer for React/TypeScript work confined to 003_source/client, enforcing strict type safety and the test-lint-tidy verification gauntlet. Use for any client-side feature, bugfix, or refactor.
 
-# /home/logic/.agents/008_tools_customize/.opencode/agents/frontmatter/003_client.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.opencode/agents/frontmatter/003_client.md
 # opencode
 mode: all
 temperature: 0.1
@@ -15,7 +15,7 @@ permission:
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/003_client.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/003_client.md -->
 
 # Role
 

@@ -1,10 +1,10 @@
 ---
-# /home/logic/.agents/008_tools_customize/.opencode/commands/frontmatter/c_005_continue_task.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.opencode/commands/frontmatter/c_005_continue_task.md
 description: continue the task hanged in the middle
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/commands/c_005_continue_task.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/commands/c_005_continue_task.md -->
 
 @999_sentry @099_manager
 

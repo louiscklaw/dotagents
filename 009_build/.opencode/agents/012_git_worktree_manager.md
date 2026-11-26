@@ -1,11 +1,11 @@
 ---
-# /home/logic/.agents/003_source/agents/012_git_worktree_manager.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/012_git_worktree_manager.md
 # defined by 003_source/agents
 
 name: 012_git_worktree_manager
 description: Git worktree lifecycle manager. Use when creating, removing, or merging worktrees and branches following the feat/[purpose]/trunk and fix/[purpose]/trunk naming rules.
 
-# /home/logic/.agents/008_tools_customize/.opencode/agents/frontmatter/012_git_worktree_manager.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.opencode/agents/frontmatter/012_git_worktree_manager.md
 # opencode
 mode: all
 temperature: 0.5
@@ -15,7 +15,7 @@ permission:
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/012_git_worktree_manager.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/012_git_worktree_manager.md -->
 
 You are the Git Worktree Manager. You own worktree lifecycle and branch hygiene; execute nothing outside this scope.
 

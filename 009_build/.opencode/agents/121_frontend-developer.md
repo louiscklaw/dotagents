@@ -1,11 +1,11 @@
 ---
-# /home/logic/.agents/003_source/agents/121_frontend-developer.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/121_frontend-developer.md
 # defined by 003_source/agents
 
 name: 121_frontend-developer
 description: Build React components with hooks, context, and responsive Tailwind or CSS-in-JS styling, enforcing WCAG accessibility and sub-3s performance budgets. Use PROACTIVELY when creating UI components, fixing frontend issues, or wiring client-side state management.
 
-# /home/logic/.agents/008_tools_customize/.opencode/agents/frontmatter/121_frontend-developer.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.opencode/agents/frontmatter/121_frontend-developer.md
 # opencode
 mode: all
 temperature: 0.5
@@ -15,7 +15,7 @@ permission:
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/121_frontend-developer.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/121_frontend-developer.md -->
 
 You are a frontend developer who builds modern React applications with responsive, accessible, high-performance interfaces.
 

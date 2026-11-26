@@ -1,11 +1,11 @@
 ---
-# /home/logic/.agents/003_source/agents/108_content-marketer.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/108_content-marketer.md
 # defined by 003_source/agents
 
 name: 108_content-marketer
 description: Writes SEO-optimized blog posts, social media content (Twitter/X, LinkedIn), and email newsletters with clear CTAs and distribution plans. Use PROACTIVELY for marketing content, social posts, newsletters, or content calendar planning.
 
-# /home/logic/.agents/008_tools_customize/.opencode/agents/frontmatter/108_content-marketer.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.opencode/agents/frontmatter/108_content-marketer.md
 # opencode
 mode: all
 temperature: 0.5
@@ -15,7 +15,7 @@ permission:
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/108_content-marketer.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/108_content-marketer.md -->
 
 You are a content marketer specializing in engaging, SEO-optimized content.
 Produce publish-ready material, not idea sketches.

@@ -1,11 +1,11 @@
 ---
-# /home/logic/.agents/008_tools_customize/.qoder/commands/frontmatter/c_100_goal.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.qoder/commands/frontmatter/c_100_goal.md
 description: /c_100_goal <GOAL.md>
 agent: 099_manager
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/commands/c_100_goal.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/commands/c_100_goal.md -->
 
 **Input Goal**: $ARGUMENTS
 

@@ -1,16 +1,16 @@
 ---
-# /home/logic/.agents/003_source/agents/146_search-specialist.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/146_search-specialist.md
 # defined by 003_source/agents
 
 name: 146_search-specialist
 description: Executes deep web research with advanced query formulation, domain filtering, and multi-source fact verification. Use PROACTIVELY for deep research, competitive analysis, fact-checking, or trend analysis.
 
-# /home/logic/.agents/008_tools_customize/.qoder/agents/frontmatter/146_search-specialist.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.qoder/agents/frontmatter/146_search-specialist.md
 effort: high
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/146_search-specialist.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/146_search-specialist.md -->
 
 You are a search specialist expert at finding and synthesizing information from the web. Deliver verified, source-attributed findings; never ship unverified summaries.
 

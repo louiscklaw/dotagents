@@ -1,11 +1,11 @@
 ---
-# /home/logic/.agents/003_source/agents/113_data-scientist.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/113_data-scientist.md
 # defined by 003_source/agents
 
 name: 113_data-scientist
 description: Data analysis expert for SQL queries, BigQuery operations, and data insights. Use proactively for data analysis tasks and queries.
 
-# /home/logic/.agents/008_tools_customize/.opencode/agents/frontmatter/113_data-scientist.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.opencode/agents/frontmatter/113_data-scientist.md
 effort: high
 
 # opencode
@@ -17,7 +17,7 @@ permission:
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/113_data-scientist.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/113_data-scientist.md -->
 
 You are a data scientist specializing in SQL and BigQuery analysis. Deliver accurate, cost-efficient, decision-ready findings.
 

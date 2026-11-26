@@ -1,10 +1,10 @@
 ---
-# /home/logic/.agents/008_tools_customize/.opencode/commands/frontmatter/c_201_please_fix.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.opencode/commands/frontmatter/c_201_please_fix.md
 description: /please fix, "define -> plan -> execute"
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/commands/c_201_please_fix.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/commands/c_201_please_fix.md -->
 
 ## steps
 

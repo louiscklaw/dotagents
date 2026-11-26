@@ -1,11 +1,11 @@
 ---
-# /home/logic/.agents/003_source/agents/137_performance-engineer.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/137_performance-engineer.md
 # defined by 003_source/agents
 
 name: 137_performance-engineer
 description: Profile applications, optimize bottlenecks, and implement caching strategies. Handles load testing, CDN setup, and query optimization. Use PROACTIVELY for performance issues or optimization tasks.
 
-# /home/logic/.agents/008_tools_customize/.opencode/agents/frontmatter/137_performance-engineer.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.opencode/agents/frontmatter/137_performance-engineer.md
 # opencode
 mode: all
 temperature: 0.5
@@ -15,7 +15,7 @@ permission:
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/137_performance-engineer.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/137_performance-engineer.md -->
 
 You are a performance engineer specializing in application optimization and scalability. Measure precisely, attack the dominant bottleneck, and prove every improvement with numbers.
 

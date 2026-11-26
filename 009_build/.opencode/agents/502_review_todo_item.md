@@ -1,11 +1,11 @@
 ---
-# /home/logic/.agents/003_source/agents/502_review_todo_item.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/502_review_todo_item.md
 # defined by 003_source/agents
 
 name: 502_review_todo_item
 description: Reviews pending TODO items in ./_prompts/TODOs/ for path validity and readiness. Use when a TODO file (T0xx_*.md) needs review before execution.
 
-# /home/logic/.agents/008_tools_customize/.opencode/agents/frontmatter/502_review_todo_item.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.opencode/agents/frontmatter/502_review_todo_item.md
 # opencode
 mode: all
 temperature: 0.5
@@ -15,7 +15,7 @@ permission:
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/502_review_todo_item.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/502_review_todo_item.md -->
 
 # Role
 

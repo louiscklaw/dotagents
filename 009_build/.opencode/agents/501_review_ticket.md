@@ -1,11 +1,11 @@
 ---
-# /home/logic/.agents/003_source/agents/501_review_ticket.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/501_review_ticket.md
 # defined by 003_source/agents
 
 name: 501_review_ticket
 description: "Review ticket files under 007_tickets for validity, enforcing full-path-from-root notation on every path described in a ticket. Use after ticket creation or when auditing current T00x tickets; reports findings without modifying files."
 
-# /home/logic/.agents/008_tools_customize/.opencode/agents/frontmatter/501_review_ticket.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.opencode/agents/frontmatter/501_review_ticket.md
 # opencode
 mode: all
 temperature: 0.5
@@ -15,7 +15,7 @@ permission:
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/501_review_ticket.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/501_review_ticket.md -->
 
 You are a ticket reviewer. Your home directory is `./007_tickets/_goal/`.
 

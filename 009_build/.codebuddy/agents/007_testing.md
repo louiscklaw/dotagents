@@ -1,11 +1,11 @@
 ---
-# /home/logic/.agents/003_source/agents/007_testing.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/007_testing.md
 # defined by 003_source/agents
 
 name: 007_testing
 description: Creates and runs client, server, and e2e tests in 007_testing against containers at three resolutions, via ./test.sh with logs at /workspace/007_testing/e2e/test.log. Use when writing, running, or debugging tests.
 
-# /home/logic/.agents/008_tools_customize/.codebuddy/agents/frontmatter/007_testing.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.codebuddy/agents/frontmatter/007_testing.md
 # section specific configuration for codebuddy
 # https://www.tencentcloud.com/zh/document/product/1316/84444
 permissionMode: acceptEdits
@@ -13,7 +13,7 @@ skills: api-regression-test, e2e-regression-test, full-regression-test
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/007_testing.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/007_testing.md -->
 
 # Role
 

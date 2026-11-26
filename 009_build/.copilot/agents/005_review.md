@@ -1,17 +1,17 @@
 ---
-# /home/logic/.agents/003_source/agents/005_review.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/005_review.md
 # defined by 003_source/agents
 
 name: 005_review
 description: Read-only architectural review of code quality, TypeScript strictness, async race conditions, and RethinkDB efficiency; reports findings without modifying anything. Use when you need an expert second opinion before merging or refactoring.
 
-# /home/logic/.agents/008_tools_customize/.copilot/agents/frontmatter/005_review.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.copilot/agents/frontmatter/005_review.md
 # section specific configuration for copilot
 tools: [read, search]
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/005_review.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/005_review.md -->
 
 # Role
 

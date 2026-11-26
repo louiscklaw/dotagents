@@ -9,7 +9,7 @@ const AGENTS_NAME = fs
   .globSync('003_source/commands/*.md', { cwd: ROOT, nodir: true })
   .map((file) => path.basename(file, '.md'))
   .sort();
-const TOOLS_NAME = ['.codebuddy','.qoder','.copilot','.opencode'];
+const TOOLS_NAME = ['.codebuddy','.qoder','.copilot','.opencode','.zcode'];
 
 // Split a markdown file into the inner lines of its leading `---` ... `---`
 // block (without the delimiters) and the remaining body.

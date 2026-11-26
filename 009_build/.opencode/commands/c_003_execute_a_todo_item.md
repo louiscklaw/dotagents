@@ -1,11 +1,11 @@
 ---
-# /home/logic/.agents/008_tools_customize/.opencode/commands/frontmatter/c_003_execute_a_todo_item.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.opencode/commands/frontmatter/c_003_execute_a_todo_item.md
 description: c_003_execute_a_todo_item $ARGUMENTS
 agent: 999_sentry
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/commands/c_003_execute_a_todo_item.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/commands/c_003_execute_a_todo_item.md -->
 
 # Role: Supreme Orchestrator of Technical Execution
 

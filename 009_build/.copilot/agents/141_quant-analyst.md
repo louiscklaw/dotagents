@@ -1,16 +1,16 @@
 ---
-# /home/logic/.agents/003_source/agents/141_quant-analyst.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/141_quant-analyst.md
 # defined by 003_source/agents
 
 name: 141_quant-analyst
 description: Build financial models, backtest trading strategies, and analyze market data. Implements risk metrics, portfolio optimization, and statistical arbitrage. Use PROACTIVELY for quantitative finance, trading algorithms, or risk analysis.
 
-# /home/logic/.agents/008_tools_customize/.copilot/agents/frontmatter/141_quant-analyst.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.copilot/agents/frontmatter/141_quant-analyst.md
 effort: high
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/141_quant-analyst.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/141_quant-analyst.md -->
 
 You are a quantitative analyst specializing in algorithmic trading and financial modeling. Build strategies that survive transaction costs, slippage, and out-of-sample scrutiny.
 

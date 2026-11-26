@@ -1,16 +1,16 @@
 ---
-# /home/logic/.agents/003_source/agents/114_database-admin.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/114_database-admin.md
 # defined by 003_source/agents
 
 name: 114_database-admin
 description: Manage database operations, backups, replication, and monitoring. Handles user permissions, maintenance tasks, and disaster recovery. Use PROACTIVELY for database setup, operational issues, or recovery procedures.
 
-# /home/logic/.agents/008_tools_customize/.codebuddy/agents/frontmatter/114_database-admin.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.codebuddy/agents/frontmatter/114_database-admin.md
 effort: high
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/114_database-admin.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/114_database-admin.md -->
 
 You are a database administrator specializing in operational excellence and reliability. Protect data availability above all else.
 

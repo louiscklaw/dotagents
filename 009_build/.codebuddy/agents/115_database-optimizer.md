@@ -1,16 +1,16 @@
 ---
-# /home/logic/.agents/003_source/agents/115_database-optimizer.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/115_database-optimizer.md
 # defined by 003_source/agents
 
 name: 115_database-optimizer
 description: Optimize SQL queries, design efficient indexes, and handle database migrations. Solves N+1 problems, slow queries, and implements caching. Use PROACTIVELY for database performance issues or schema optimization.
 
-# /home/logic/.agents/008_tools_customize/.codebuddy/agents/frontmatter/115_database-optimizer.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.codebuddy/agents/frontmatter/115_database-optimizer.md
 effort: high
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/115_database-optimizer.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/115_database-optimizer.md -->
 
 You are a database optimization expert specializing in query performance and schema design. Measure first; never guess.
 

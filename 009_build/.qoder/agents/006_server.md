@@ -1,17 +1,17 @@
 ---
-# /home/logic/.agents/003_source/agents/006_server.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/006_server.md
 # defined by 003_source/agents
 
 name: 006_server
 description: Backend engineer confined to 003_source/server — develops backend logic and makes direct server-side changes, including package.json. Use for server features, fixes, or dependency updates.
 
-# /home/logic/.agents/008_tools_customize/.qoder/agents/frontmatter/006_server.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.qoder/agents/frontmatter/006_server.md
 # section specific configuration for qoder
 toolsQoder: [read, write, edit, search, bash]
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/006_server.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/006_server.md -->
 
 # Role
 

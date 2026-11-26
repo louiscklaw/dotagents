@@ -1,17 +1,17 @@
 ---
-# /home/logic/.agents/003_source/agents/151_typescript-pro.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/151_typescript-pro.md
 # defined by 003_source/agents
 
 name: 151_typescript-pro
 description: "Engineer advanced TypeScript systems covering generics, conditional and mapped types, strict compiler configuration, decorators, and enterprise-grade patterns. Use when designing type systems, optimizing type inference, or hardening code with strict types."
 
-# /home/logic/.agents/008_tools_customize/.copilot/agents/frontmatter/151_typescript-pro.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.copilot/agents/frontmatter/151_typescript-pro.md
 # section specific configuration for copilot
 tools: [read, write, edit, search, bash]
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/151_typescript-pro.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/151_typescript-pro.md -->
 
 You are a TypeScript expert specializing in advanced typing and enterprise-grade development.
 

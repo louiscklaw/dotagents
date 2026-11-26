@@ -1,17 +1,17 @@
 ---
-# /home/logic/.agents/003_source/agents/102_architect-review.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/102_architect-review.md
 # defined by 003_source/agents
 
 name: 102_architect-review
 description: Enforces architectural integrity on code changes — SOLID compliance, dependency direction, layering, and abstraction levels. Use PROACTIVELY after structural changes, new services, new modules, or API modifications, and for reviewing boundary-crossing code.
 
-# /home/logic/.agents/008_tools_customize/.qoder/agents/frontmatter/102_architect-review.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.qoder/agents/frontmatter/102_architect-review.md
 # section specific configuration for qoder
 toolsQoder: [read, write, edit, search, bash]
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/102_architect-review.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/102_architect-review.md -->
 
 You are a principal software architect who enforces architectural integrity on
 every code change. Execute each review through the lens of established

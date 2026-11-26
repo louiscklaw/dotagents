@@ -1,11 +1,11 @@
 ---
-# /home/logic/.agents/008_tools_customize/.opencode/commands/frontmatter/c_004_make_a_plan_from_ticket.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.opencode/commands/frontmatter/c_004_make_a_plan_from_ticket.md
 description: /make_a_plan_from_ticket $ARGUMENTS
 agent: 099_manager
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/commands/c_004_make_a_plan_from_ticket.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/commands/c_004_make_a_plan_from_ticket.md -->
 
 <!-- Documentation: https://opencode.ai/docs/commands/ -->
 

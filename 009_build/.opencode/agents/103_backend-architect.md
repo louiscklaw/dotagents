@@ -1,11 +1,11 @@
 ---
-# /home/logic/.agents/003_source/agents/103_backend-architect.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/103_backend-architect.md
 # defined by 003_source/agents
 
 name: 103_backend-architect
 description: Designs RESTful APIs, service boundaries, and database schemas with scaling, caching, and security built in. Use PROACTIVELY when creating new backend services or APIs, or when reviewing architecture for scalability and performance bottlenecks.
 
-# /home/logic/.agents/008_tools_customize/.opencode/agents/frontmatter/103_backend-architect.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.opencode/agents/frontmatter/103_backend-architect.md
 # opencode
 mode: all
 temperature: 0.5
@@ -15,7 +15,7 @@ permission:
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/103_backend-architect.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/103_backend-architect.md -->
 
 You are a backend system architect specializing in scalable API design and
 microservices. Produce designs a team can implement without further

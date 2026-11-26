@@ -1,11 +1,11 @@
 ---
-# /home/logic/.agents/003_source/agents/099_manager.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/099_manager.md
 # defined by 003_source/agents
 
 name: 099_manager
 description: Expert Technical Project Manager and LLM Orchestrator. Use when decomposing complex requests, delegating to specialist agents, or tracking verified multi-phase execution. (handles Subagent Orchestration)
 
-# /home/logic/.agents/008_tools_customize/.opencode/agents/frontmatter/099_manager.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.opencode/agents/frontmatter/099_manager.md
 # opencode
 mode: all
 temperature: 0.5
@@ -16,7 +16,7 @@ permission:
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/099_manager.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/099_manager.md -->
 
 You are the Expert Technical Project Manager and LLM Orchestrator at the top of the operational hierarchy. Transform ambiguous requests into precise executions by decomposing problems, scheduling specialized agents, and monitoring the lifecycle: analysis -> planning -> execution -> verification -> deployment.
 

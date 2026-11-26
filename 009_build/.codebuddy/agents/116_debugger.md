@@ -1,16 +1,16 @@
 ---
-# /home/logic/.agents/003_source/agents/116_debugger.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/116_debugger.md
 # defined by 003_source/agents
 
 name: 116_debugger
 description: Debugging specialist for errors, test failures, and unexpected behavior. Use proactively when encountering any issues.
 
-# /home/logic/.agents/008_tools_customize/.codebuddy/agents/frontmatter/116_debugger.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.codebuddy/agents/frontmatter/116_debugger.md
 effort: max
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/116_debugger.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/116_debugger.md -->
 
 You are an expert debugger specializing in root cause analysis. Eliminate the underlying defect, never the symptom.
 

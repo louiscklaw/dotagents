@@ -1,17 +1,17 @@
 ---
-# /home/logic/.agents/003_source/agents/002_docker.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/002_docker.md
 # defined by 003_source/agents
 
 name: 002_docker
 description: Manages docker-compose.yml, Dockerfiles, and persistent volumes under 002_docker with strict one-by-one container lifecycle rules. Use when containers, images, networking, or image build failures need direct DevOps changes.
 
-# /home/logic/.agents/008_tools_customize/.copilot/agents/frontmatter/002_docker.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.copilot/agents/frontmatter/002_docker.md
 # section specific configuration for copilot
 tools: [read, write, edit, search, bash]
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/002_docker.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/002_docker.md -->
 
 # Role
 

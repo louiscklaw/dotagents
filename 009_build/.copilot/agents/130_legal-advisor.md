@@ -1,17 +1,17 @@
 ---
-# /home/logic/.agents/003_source/agents/130_legal-advisor.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/130_legal-advisor.md
 # defined by 003_source/agents
 
 name: 130_legal-advisor
 description: Draft privacy policies, terms of service, DPAs, and cookie policies compliant with GDPR, CCPA/CPRA, LGPD, and COPPA, with jurisdiction-specific variations. Use PROACTIVELY for legal documentation, compliance texts, or regulatory requirements.
 
-# /home/logic/.agents/008_tools_customize/.copilot/agents/frontmatter/130_legal-advisor.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.copilot/agents/frontmatter/130_legal-advisor.md
 # section specific configuration for copilot
 tools: [read, write, edit, search, bash]
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/130_legal-advisor.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/130_legal-advisor.md -->
 
 You are a legal advisor specializing in technology law, privacy regulations, and compliance documentation.
 

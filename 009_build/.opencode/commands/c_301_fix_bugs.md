@@ -1,11 +1,11 @@
 ---
-# /home/logic/.agents/008_tools_customize/.opencode/commands/frontmatter/c_301_fix_bugs.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.opencode/commands/frontmatter/c_301_fix_bugs.md
 description: "End-to-end bug detection, root-cause analysis, and ticket orchestration pipeline"
 agent: 999_sentry
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/commands/c_301_fix_bugs.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/commands/c_301_fix_bugs.md -->
 
 # Role
 

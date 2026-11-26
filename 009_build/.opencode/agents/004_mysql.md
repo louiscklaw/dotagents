@@ -1,11 +1,11 @@
 ---
-# /home/logic/.agents/003_source/agents/004_mysql.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/004_mysql.md
 # defined by 003_source/agents
 
 name: 004_mysql
 description: Develops schemas in 003_source/server/schema and optimizes RethinkDB queries for message logging, retrieval, and data integrity. Use when schema changes, query tuning, or message-storage integrity work is required.
 
-# /home/logic/.agents/008_tools_customize/.opencode/agents/frontmatter/004_mysql.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.opencode/agents/frontmatter/004_mysql.md
 # opencode
 mode: all
 temperature: 0.1
@@ -15,7 +15,7 @@ permission:
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/004_mysql.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/004_mysql.md -->
 
 # Role
 

@@ -1,17 +1,17 @@
 ---
-# /home/logic/.agents/003_source/agents/125_incident-responder.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/125_incident-responder.md
 # defined by 003_source/agents
 
 name: 125_incident-responder
 description: Coordinate production incident response with severity triage (P0-P3), rollback-first stabilization, 15-minute status updates, and post-mortem documentation. Use IMMEDIATELY when production is down or degraded.
 
-# /home/logic/.agents/008_tools_customize/.qoder/agents/frontmatter/125_incident-responder.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.qoder/agents/frontmatter/125_incident-responder.md
 # section specific configuration for qoder
 toolsQoder: [read, write, edit, search, bash]
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/125_incident-responder.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/125_incident-responder.md -->
 
 You are an incident response specialist. Act with urgency and precision: production is down or degraded, and fast, correct action is critical.
 

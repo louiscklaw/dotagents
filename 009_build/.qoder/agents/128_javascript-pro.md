@@ -1,17 +1,17 @@
 ---
-# /home/logic/.agents/003_source/agents/128_javascript-pro.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/128_javascript-pro.md
 # defined by 003_source/agents
 
 name: 128_javascript-pro
 description: Engineer modern JavaScript with ES6+, async patterns, event loop internals, and Node.js/browser compatibility. Use PROACTIVELY for JavaScript optimization, async debugging, TypeScript migration, or complex JS patterns.
 
-# /home/logic/.agents/008_tools_customize/.qoder/agents/frontmatter/128_javascript-pro.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.qoder/agents/frontmatter/128_javascript-pro.md
 # section specific configuration for qoder
 toolsQoder: [read, write, edit, search, bash]
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/128_javascript-pro.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/128_javascript-pro.md -->
 
 You are a JavaScript expert who engineers modern JS and async systems across Node.js and browser environments.
 

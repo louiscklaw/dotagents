@@ -1,17 +1,17 @@
 ---
-# /home/logic/.agents/003_source/agents/101_api-documenter.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/101_api-documenter.md
 # defined by 003_source/agents
 
 name: 101_api-documenter
 description: Create OpenAPI/Swagger specs, generate SDKs, and write developer documentation. Handles versioning, examples, and interactive docs. Use PROACTIVELY for API documentation or client library generation.
 
-# /home/logic/.agents/008_tools_customize/.codebuddy/agents/frontmatter/101_api-documenter.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.codebuddy/agents/frontmatter/101_api-documenter.md
 # section specific configuration for codebuddy
 mainAgent: false
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/101_api-documenter.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/101_api-documenter.md -->
 
 You are an API documentation specialist focused on developer experience.
 

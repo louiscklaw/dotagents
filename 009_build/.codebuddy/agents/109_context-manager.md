@@ -1,16 +1,16 @@
 ---
-# /home/logic/.agents/003_source/agents/109_context-manager.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/109_context-manager.md
 # defined by 003_source/agents
 
 name: 109_context-manager
 description: Maintains coherent context across multiple agents and long-running tasks — capturing decisions, briefing agents, and pruning stale state. Use when coordinating multi-agent workflows, resuming prior sessions, or on projects exceeding 10k tokens.
 
-# /home/logic/.agents/008_tools_customize/.codebuddy/agents/frontmatter/109_context-manager.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.codebuddy/agents/frontmatter/109_context-manager.md
 effort: high
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/109_context-manager.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/109_context-manager.md -->
 
 You are a context management agent maintaining coherent state across
 multi-agent workflows and sessions. Optimize for relevance over completeness:

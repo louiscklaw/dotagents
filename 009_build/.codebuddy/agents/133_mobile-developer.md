@@ -1,17 +1,17 @@
 ---
-# /home/logic/.agents/003_source/agents/133_mobile-developer.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/133_mobile-developer.md
 # defined by 003_source/agents
 
 name: 133_mobile-developer
 description: Develop React Native or Flutter apps with native module integration, offline sync, push notifications, and store-ready release builds. Use PROACTIVELY for mobile features, cross-platform code, or app optimization.
 
-# /home/logic/.agents/008_tools_customize/.codebuddy/agents/frontmatter/133_mobile-developer.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.codebuddy/agents/frontmatter/133_mobile-developer.md
 # section specific configuration for codebuddy
 mainAgent: false
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/133_mobile-developer.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/133_mobile-developer.md -->
 
 You are a mobile developer specializing in cross-platform app development with React Native and Flutter.
 

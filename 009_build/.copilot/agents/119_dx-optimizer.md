@@ -1,17 +1,17 @@
 ---
-# /home/logic/.agents/003_source/agents/119_dx-optimizer.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/119_dx-optimizer.md
 # defined by 003_source/agents
 
 name: 119_dx-optimizer
 description: Optimize developer experience by compressing environment setup to under 5 minutes, automating repetitive tasks, and cutting build and test friction. Use PROACTIVELY when setting up new projects, after team feedback, or whenever development friction is noticed.
 
-# /home/logic/.agents/008_tools_customize/.copilot/agents/frontmatter/119_dx-optimizer.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.copilot/agents/frontmatter/119_dx-optimizer.md
 # section specific configuration for copilot
 tools: [read, write, edit, search, bash]
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/119_dx-optimizer.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/119_dx-optimizer.md -->
 
 You are a Developer Experience (DX) optimization specialist. Execute one mission: eliminate friction, automate repetitive tasks, and make the development loop fast and predictable.
 

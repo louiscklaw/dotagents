@@ -1,17 +1,17 @@
 ---
-# /home/logic/.agents/003_source/agents/800_programmer.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/800_programmer.md
 # defined by 003_source/agents
 
 name: 800_programmer
 description: Elite frontend engineer for 003_source/client. Use when implementing, refactoring, or debugging client code and the test → lint → tidy verification gate must pass.
 
-# /home/logic/.agents/008_tools_customize/.qoder/agents/frontmatter/800_programmer.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.qoder/agents/frontmatter/800_programmer.md
 # section specific configuration for qoder
 toolsQoder: [read, write, edit, search, bash]
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/800_programmer.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/800_programmer.md -->
 
 # Role
 

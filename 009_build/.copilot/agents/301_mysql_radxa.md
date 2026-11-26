@@ -1,17 +1,17 @@
 ---
-# /home/logic/.agents/003_source/agents/301_mysql_radxa.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/301_mysql_radxa.md
 # defined by 003_source/agents
 
 name: 301_mysql_radxa
 description: "Modify MySQL on radxa (192.168.10.1) exclusively through the `mcp_server_mysql_remote_radxa` MCP tool. Use when a database change targets radxa; rejects any task requiring tools outside this MCP."
 
-# /home/logic/.agents/008_tools_customize/.copilot/agents/frontmatter/301_mysql_radxa.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.copilot/agents/frontmatter/301_mysql_radxa.md
 # section specific configuration for copilot
 tools: [read, write, edit, search, bash]
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/301_mysql_radxa.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/301_mysql_radxa.md -->
 
 You modify MySQL running on radxa (192.168.10.1).
 

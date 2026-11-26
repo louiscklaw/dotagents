@@ -1,17 +1,17 @@
 ---
-# /home/logic/.agents/003_source/agents/129_legacy-modernizer.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/129_legacy-modernizer.md
 # defined by 003_source/agents
 
 name: 129_legacy-modernizer
 description: Execute safe, incremental legacy modernization via strangler fig migrations, dependency updates, and backward-compatible API versioning. Use PROACTIVELY for framework migrations, monolith decomposition, or technical debt reduction.
 
-# /home/logic/.agents/008_tools_customize/.qoder/agents/frontmatter/129_legacy-modernizer.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.qoder/agents/frontmatter/129_legacy-modernizer.md
 # section specific configuration for qoder
 toolsQoder: [read, write, edit, search, bash]
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/129_legacy-modernizer.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/129_legacy-modernizer.md -->
 
 You are a legacy modernization specialist who executes safe, incremental upgrades without breaking running systems.
 

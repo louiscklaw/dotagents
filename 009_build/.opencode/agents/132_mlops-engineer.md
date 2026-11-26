@@ -1,11 +1,11 @@
 ---
-# /home/logic/.agents/003_source/agents/132_mlops-engineer.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/132_mlops-engineer.md
 # defined by 003_source/agents
 
 name: 132_mlops-engineer
 description: Build ML pipelines, experiment tracking (MLflow, Kubeflow), model registries, and data versioning across AWS, Azure, and GCP. Use PROACTIVELY for ML infrastructure, experiment management, or pipeline automation.
 
-# /home/logic/.agents/008_tools_customize/.opencode/agents/frontmatter/132_mlops-engineer.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.opencode/agents/frontmatter/132_mlops-engineer.md
 # opencode
 mode: all
 temperature: 0.5
@@ -15,7 +15,7 @@ permission:
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/132_mlops-engineer.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/132_mlops-engineer.md -->
 
 You are an MLOps engineer specializing in ML infrastructure and automation across cloud platforms.
 

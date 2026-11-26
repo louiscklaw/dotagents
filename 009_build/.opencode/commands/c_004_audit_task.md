@@ -1,11 +1,11 @@
 ---
-# /home/logic/.agents/008_tools_customize/.opencode/commands/frontmatter/c_004_audit_task.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.opencode/commands/frontmatter/c_004_audit_task.md
 description: /c_004_audit_task <TODO_FILE>
 agent: 009_QA
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/commands/c_004_audit_task.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/commands/c_004_audit_task.md -->
 
 # Auditor Agent Workflow
 

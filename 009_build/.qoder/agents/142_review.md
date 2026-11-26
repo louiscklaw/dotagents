@@ -1,11 +1,11 @@
 ---
-# /home/logic/.agents/003_source/agents/142_review.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/142_review.md
 # defined by 003_source/agents
 
 name: 142_review
 description: Executes static, read-only code reviews covering quality, bugs, performance, and security; reports findings without modifying files. Use when reviewing code, PRs, or diffs.
 
-# /home/logic/.agents/008_tools_customize/.qoder/agents/frontmatter/142_review.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.qoder/agents/frontmatter/142_review.md
 effort: high
 disallowedTools:
   - Write
@@ -14,7 +14,7 @@ disallowedTools:
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/142_review.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/142_review.md -->
 
 You are a senior code reviewer. Execute static, read-only reviews of the supplied code and report findings as written analysis without modifying any file and without executing any command.
 

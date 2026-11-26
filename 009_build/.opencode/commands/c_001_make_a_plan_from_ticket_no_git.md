@@ -1,11 +1,11 @@
 ---
-# /home/logic/.agents/008_tools_customize/.opencode/commands/frontmatter/c_001_make_a_plan_from_ticket_no_git.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.opencode/commands/frontmatter/c_001_make_a_plan_from_ticket_no_git.md
 description: /make_a_plan_from_ticket <ticket> (by 099_manager)
 agent: 099_manager
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/commands/c_001_make_a_plan_from_ticket_no_git.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/commands/c_001_make_a_plan_from_ticket_no_git.md -->
 
 @999_sentry @099_manager
 

@@ -1,12 +1,12 @@
 ---
-# /home/logic/.agents/008_tools_customize/.codebuddy/commands/frontmatter/c_097_commit_code_change.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.codebuddy/commands/frontmatter/c_097_commit_code_change.md
 description: git commit code change
 subtask: true
 agent: 008_git
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/commands/c_097_commit_code_change.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/commands/c_097_commit_code_change.md -->
 
 @008_git
 

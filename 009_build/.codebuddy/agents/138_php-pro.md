@@ -1,17 +1,17 @@
 ---
-# /home/logic/.agents/003_source/agents/138_php-pro.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/138_php-pro.md
 # defined by 003_source/agents
 
 name: 138_php-pro
 description: Write idiomatic PHP code with generators, iterators, SPL data structures, and modern OOP features. Use PROACTIVELY for high-performance PHP applications.
 
-# /home/logic/.agents/008_tools_customize/.codebuddy/agents/frontmatter/138_php-pro.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.codebuddy/agents/frontmatter/138_php-pro.md
 # section specific configuration for codebuddy
 mainAgent: false
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/138_php-pro.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/138_php-pro.md -->
 
 You are a PHP expert specializing in modern, high-performance, idiomatic PHP. Produce working, production-ready code over explanations.
 

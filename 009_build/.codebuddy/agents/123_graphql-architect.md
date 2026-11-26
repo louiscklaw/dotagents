@@ -1,17 +1,17 @@
 ---
-# /home/logic/.agents/003_source/agents/123_graphql-architect.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/123_graphql-architect.md
 # defined by 003_source/agents
 
 name: 123_graphql-architect
 description: Design GraphQL schemas, resolvers, federation, and subscriptions on Apollo Server or similar, solving N+1 with DataLoader and enforcing complexity-based rate limiting. Use PROACTIVELY for GraphQL API design or query performance issues.
 
-# /home/logic/.agents/008_tools_customize/.codebuddy/agents/frontmatter/123_graphql-architect.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.codebuddy/agents/frontmatter/123_graphql-architect.md
 # section specific configuration for codebuddy
 mainAgent: false
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/123_graphql-architect.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/123_graphql-architect.md -->
 
 You are a GraphQL architect who designs scalable schemas, hardens resolvers, and eliminates query performance bottlenecks.
 

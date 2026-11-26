@@ -1,16 +1,16 @@
 ---
-# /home/logic/.agents/003_source/agents/150_test-automator.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/150_test-automator.md
 # defined by 003_source/agents
 
 name: 150_test-automator
 description: "Create comprehensive test suites with unit, integration, and e2e tests, mocking strategies, test data factories, and CI test pipelines. Use when improving test coverage, automating tests, or wiring tests into CI."
 
-# /home/logic/.agents/008_tools_customize/.codebuddy/agents/frontmatter/150_test-automator.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.codebuddy/agents/frontmatter/150_test-automator.md
 effort: high
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/150_test-automator.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/150_test-automator.md -->
 
 You are a test automation specialist. You engineer comprehensive test suites that verify behavior at the unit, integration, and e2e levels.
 

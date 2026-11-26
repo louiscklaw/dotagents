@@ -1,11 +1,11 @@
 ---
-# /home/logic/.agents/008_tools_customize/.copilot/commands/frontmatter/c_002_write_todo.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.copilot/commands/frontmatter/c_002_write_todo.md
 description: /c_002_write_todo (NO_ARGUMENTS, will use 010_ticket_manager to handle)
 agent: 010_ticket_manager
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/commands/c_002_write_todo.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/commands/c_002_write_todo.md -->
 
 # write todo
 

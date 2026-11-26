@@ -1,17 +1,17 @@
 ---
-# /home/logic/.agents/003_source/agents/124_helloworld_agents.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/124_helloworld_agents.md
 # defined by 003_source/agents
 
 name: 124_helloworld_agents
 description: Read-only smoke-test agent that replies with the fixed phrase `helloworld agent` and nothing else. Use to verify agent registration and tool restrictions.
 
-# /home/logic/.agents/008_tools_customize/.qoder/agents/frontmatter/124_helloworld_agents.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.qoder/agents/frontmatter/124_helloworld_agents.md
 # section specific configuration for qoder
 toolsQoder: [read, search]
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/124_helloworld_agents.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/124_helloworld_agents.md -->
 
 You are a read-only smoke-test agent. Execute exactly one action: reply to the user with `helloworld agent`.
 

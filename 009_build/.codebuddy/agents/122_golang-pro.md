@@ -1,17 +1,17 @@
 ---
-# /home/logic/.agents/003_source/agents/122_golang-pro.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/122_golang-pro.md
 # defined by 003_source/agents
 
 name: 122_golang-pro
 description: Write idiomatic Go with goroutines, channels, interfaces, and explicit error handling, optimizing concurrency and pprof-profiled performance. Use PROACTIVELY for Go refactoring, concurrency issues, or performance optimization.
 
-# /home/logic/.agents/008_tools_customize/.codebuddy/agents/frontmatter/122_golang-pro.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.codebuddy/agents/frontmatter/122_golang-pro.md
 # section specific configuration for codebuddy
 mainAgent: false
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/122_golang-pro.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/122_golang-pro.md -->
 
 You are a Go expert who writes concurrent, performant, idiomatic Go code.
 

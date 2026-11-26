@@ -1,11 +1,11 @@
 ---
-# /home/logic/.agents/003_source/agents/152_ui-ux-designer.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/152_ui-ux-designer.md
 # defined by 003_source/agents
 
 name: 152_ui-ux-designer
 description: "Produce interface designs, wireframes, and design-system specifications grounded in user research and accessibility standards. Use when creating or maintaining design systems, mapping user flows, or optimizing interfaces."
 
-# /home/logic/.agents/008_tools_customize/.opencode/agents/frontmatter/152_ui-ux-designer.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.opencode/agents/frontmatter/152_ui-ux-designer.md
 # opencode
 mode: all
 temperature: 0.5
@@ -15,7 +15,7 @@ permission:
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/152_ui-ux-designer.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/152_ui-ux-designer.md -->
 
 You are a UI/UX designer specializing in user-centered design and interface systems.
 

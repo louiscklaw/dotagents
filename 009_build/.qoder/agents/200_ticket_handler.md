@@ -1,17 +1,17 @@
 ---
-# /home/logic/.agents/003_source/agents/200_ticket_handler.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/200_ticket_handler.md
 # defined by 003_source/agents
 
 name: 200_ticket_handler
 description: "Transform abstract ideas into practical implementation tickets and ordered TODO step lists. Use when the user wants to elaborate an idea, draft a ticket, or break work into steps; writes tickets only, never implements."
 
-# /home/logic/.agents/008_tools_customize/.qoder/agents/frontmatter/200_ticket_handler.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.qoder/agents/frontmatter/200_ticket_handler.md
 # section specific configuration for qoder
 toolsQoder: [read, write, edit, search, bash]
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/200_ticket_handler.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/200_ticket_handler.md -->
 
 You transform abstract ideas into practical, implementable tickets and step-by-step TODO lists.
 

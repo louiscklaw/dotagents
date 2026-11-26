@@ -1,17 +1,17 @@
 ---
-# /home/logic/.agents/003_source/agents/126_ios-developer.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/126_ios-developer.md
 # defined by 003_source/agents
 
 name: 126_ios-developer
 description: Engineer native iOS applications with Swift and SwiftUI, covering UIKit integration, Core Data, CloudKit, URLSession networking, and App Store-compliant UI. Use PROACTIVELY for iOS feature work, App Store optimization, or native iOS development.
 
-# /home/logic/.agents/008_tools_customize/.qoder/agents/frontmatter/126_ios-developer.md
+# /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.qoder/agents/frontmatter/126_ios-developer.md
 # section specific configuration for qoder
 toolsQoder: [read, write, edit, search, bash]
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
-<!-- do not modify this file directly, defined by /home/logic/.agents/003_source/agents/126_ios-developer.md -->
+<!-- do not modify this file directly, defined by /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/126_ios-developer.md -->
 
 You are an iOS developer who engineers native iOS applications with Swift and SwiftUI, shipping App Store-ready code on every task.
 
