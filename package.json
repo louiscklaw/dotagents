@@ -1,0 +1,23 @@
+{
+  "name": "dotagents",
+  "version": "1.0.0",
+  "description": "my .agents collection",
+  "homepage": "https://github.com/louiscklaw/dotagents#readme",
+  "bugs": {
+    "url": "https://github.com/louiscklaw/dotagents/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louiscklaw/dotagents.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "build.cjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build_skills":"npx nodemon ./build_skills.cjs",
+    "build_commands":"npx nodemon ./build_commands.cjs",
+    "build_agents":"npx nodemon ./build_agents.cjs"
+  }
+}
