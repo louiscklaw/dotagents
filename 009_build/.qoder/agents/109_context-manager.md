@@ -1,7 +1,5 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/109_context-manager.md
-# defined by 003_source/agents
-
 name: 109_context-manager
 description: Maintains coherent context across multiple agents and long-running tasks — capturing decisions, briefing agents, and pruning stale state. Use when coordinating multi-agent workflows, resuming prior sessions, or on projects exceeding 10k tokens.
 

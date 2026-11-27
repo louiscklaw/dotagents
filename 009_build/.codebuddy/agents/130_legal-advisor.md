@@ -1,13 +1,12 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/130_legal-advisor.md
-# defined by 003_source/agents
-
 name: 130_legal-advisor
 description: Draft privacy policies, terms of service, DPAs, and cookie policies compliant with GDPR, CCPA/CPRA, LGPD, and COPPA, with jurisdiction-specific variations. Use PROACTIVELY for legal documentation, compliance texts, or regulatory requirements.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.codebuddy/agents/frontmatter/130_legal-advisor.md
 # section specific configuration for codebuddy
 mainAgent: false
+model: hy4-flash
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

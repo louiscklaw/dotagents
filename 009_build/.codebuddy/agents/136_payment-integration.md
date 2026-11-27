@@ -1,13 +1,12 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/136_payment-integration.md
-# defined by 003_source/agents
-
 name: 136_payment-integration
 description: Integrate Stripe, PayPal, and payment processors. Handles checkout flows, subscriptions, webhooks, and PCI compliance. Use PROACTIVELY when implementing payments, billing, or subscription features.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.codebuddy/agents/frontmatter/136_payment-integration.md
 # section specific configuration for codebuddy
 mainAgent: false
+model: hy4-flash
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

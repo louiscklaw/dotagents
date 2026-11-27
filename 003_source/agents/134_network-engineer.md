@@ -1,6 +1,4 @@
 ---
-# defined by 003_source/agents
-
 name: 134_network-engineer
 description: Debug network connectivity, configure load balancers, and analyze traffic patterns. Handles DNS, SSL/TLS, CDN setup, and network security. Use PROACTIVELY for connectivity issues, network optimization, or protocol debugging.
 ---

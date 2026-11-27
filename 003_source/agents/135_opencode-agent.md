@@ -1,5 +1,4 @@
 ---
-# defined by 003_source/agents
 
 name: 135_opencode-agent
 description: The primary orchestrator and guide for the opencode ecosystem: `opencode.jsonc` and `.opencode` configuration, agent and skill lifecycle management, and tool optimization. Use when creating or auditing opencode agents and skills, editing configuration, or coordinating multi-agent workflows.

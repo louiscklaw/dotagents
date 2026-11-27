@@ -1,7 +1,5 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/144_rust-pro.md
-# defined by 003_source/agents
-
 name: 144_rust-pro
 description: Writes idiomatic, memory-safe Rust with ownership, lifetimes, traits, and async/await on Tokio/async-std; enforces clippy-clean, zero-cost code. Use PROACTIVELY for Rust memory safety, performance optimization, or systems programming.
 

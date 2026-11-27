@@ -1,7 +1,5 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/111_customer-support.md
-# defined by 003_source/agents
-
 name: 111_customer-support
 description: Handle support tickets, FAQ responses, and customer emails. Creates help docs, troubleshooting guides, and canned responses. Use PROACTIVELY for customer inquiries or support documentation.
 

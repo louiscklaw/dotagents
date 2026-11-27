@@ -1,7 +1,5 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/129_legacy-modernizer.md
-# defined by 003_source/agents
-
 name: 129_legacy-modernizer
 description: Execute safe, incremental legacy modernization via strangler fig migrations, dependency updates, and backward-compatible API versioning. Use PROACTIVELY for framework migrations, monolith decomposition, or technical debt reduction.
 

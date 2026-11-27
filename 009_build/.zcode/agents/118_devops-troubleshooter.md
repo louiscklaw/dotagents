@@ -1,13 +1,12 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/118_devops-troubleshooter.md
-# defined by 003_source/agents
-
 name: 118_devops-troubleshooter
 description: Diagnose production incidents and repair deployment failures using ELK, Datadog log correlation, kubectl debugging, and systematic root cause analysis. Use PROACTIVELY for outages, degraded performance, rollbacks, or post-deployment breakage.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/118_devops-troubleshooter.md
 # section specific configuration for codebuddy
 mainAgent: false
+model: hy4-flash
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

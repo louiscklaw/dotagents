@@ -1,6 +1,4 @@
 ---
-# defined by 003_source/agents
-
 name: 115_database-optimizer
 description: Optimize SQL queries, design efficient indexes, and handle database migrations. Solves N+1 problems, slow queries, and implements caching. Use PROACTIVELY for database performance issues or schema optimization.
 ---

@@ -1,7 +1,5 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/148_sql-pro.md
-# defined by 003_source/agents
-
 name: 148_sql-pro
 description: Writes complex SQL with CTEs and window functions, optimizes execution plans via EXPLAIN ANALYZE, and designs normalized schemas. Use PROACTIVELY for query optimization, complex joins, or database design across PostgreSQL/MySQL/SQL Server.
 

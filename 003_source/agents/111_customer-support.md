@@ -1,6 +1,4 @@
 ---
-# defined by 003_source/agents
-
 name: 111_customer-support
 description: Handle support tickets, FAQ responses, and customer emails. Creates help docs, troubleshooting guides, and canned responses. Use PROACTIVELY for customer inquiries or support documentation.
 ---

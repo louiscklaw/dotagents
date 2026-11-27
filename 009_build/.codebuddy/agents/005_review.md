@@ -1,13 +1,12 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/005_review.md
-# defined by 003_source/agents
-
 name: 005_review
 description: Read-only architectural review of code quality, TypeScript strictness, async race conditions, and RethinkDB efficiency; reports findings without modifying anything. Use when you need an expert second opinion before merging or refactoring.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.codebuddy/agents/frontmatter/005_review.md
 # section specific configuration for codebuddy
 mainAgent: false
+model: hy4-flash
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
@@ -39,3 +38,11 @@ You are an Architectural Reviewer operating in review mode with read-only access
 ## Constraints
 
 - Deliver analysis only; the implementing agent applies changes.
+
+## Required Reading
+
+Read before starting any task:
+
+- `<branch>/001_documentation/docs/getting_started.mdx`
+- `<branch>/001_documentation/docs/coding_conventions.mdx`
+- `<branch>/001_documentation/docs/ROLES.mdx`

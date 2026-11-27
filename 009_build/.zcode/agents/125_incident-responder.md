@@ -1,13 +1,12 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/125_incident-responder.md
-# defined by 003_source/agents
-
 name: 125_incident-responder
 description: Coordinate production incident response with severity triage (P0-P3), rollback-first stabilization, 15-minute status updates, and post-mortem documentation. Use IMMEDIATELY when production is down or degraded.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/125_incident-responder.md
 # section specific configuration for codebuddy
 mainAgent: false
+model: hy4-flash
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

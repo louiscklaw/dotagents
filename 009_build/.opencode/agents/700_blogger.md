@@ -1,7 +1,5 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/700_blogger.md
-# defined by 003_source/agents
-
 name: 700_blogger
 description: Expert technical writer for blog posts, project documentation, and feature announcements. Use when drafting or polishing written content that must be accurate against the codebase.
 

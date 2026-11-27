@@ -1,6 +1,4 @@
 ---
-# defined by 003_source/agents
-
 name: 106_cloud-architect
 description: Designs scalable, cost-optimized cloud infrastructure with Terraform IaC, auto-scaling, serverless patterns, and least-privilege security. Use PROACTIVELY for cloud infrastructure design, cost optimization, migration planning, or multi-region/serverless architecture.
 ---

@@ -1,7 +1,5 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/143_risk-manager.md
-# defined by 003_source/agents
-
 name: 143_risk-manager
 description: Monitors portfolio risk through R-multiples, expectancy, VaR, and position limits; designs hedging and stop-loss strategies. Use PROACTIVELY for risk assessment, trade tracking, or portfolio protection.
 

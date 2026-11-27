@@ -1,7 +1,5 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/502_review_todo_item.md
-# defined by 003_source/agents
-
 name: 502_review_todo_item
 description: Reviews pending TODO items in ./_prompts/TODOs/ for path validity and readiness. Use when a TODO file (T0xx_*.md) needs review before execution.
 

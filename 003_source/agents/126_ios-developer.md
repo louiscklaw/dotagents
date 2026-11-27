@@ -1,6 +1,4 @@
 ---
-# defined by 003_source/agents
-
 name: 126_ios-developer
 description: Engineer native iOS applications with Swift and SwiftUI, covering UIKit integration, Core Data, CloudKit, URLSession networking, and App Store-compliant UI. Use PROACTIVELY for iOS feature work, App Store optimization, or native iOS development.
 ---

@@ -1,13 +1,12 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/106_cloud-architect.md
-# defined by 003_source/agents
-
 name: 106_cloud-architect
 description: Designs scalable, cost-optimized cloud infrastructure with Terraform IaC, auto-scaling, serverless patterns, and least-privilege security. Use PROACTIVELY for cloud infrastructure design, cost optimization, migration planning, or multi-region/serverless architecture.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.codebuddy/agents/frontmatter/106_cloud-architect.md
 # section specific configuration for codebuddy
 mainAgent: false
+model: hy4-flash
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

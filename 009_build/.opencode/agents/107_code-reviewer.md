@@ -1,7 +1,5 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/107_code-reviewer.md
-# defined by 003_source/agents
-
 name: 107_code-reviewer
 description: Reviews code with heightened scrutiny of configuration changes that can cause production outages — connection pools, timeouts, resource limits, and security settings. Use immediately after writing or modifying any code or configuration file.
 

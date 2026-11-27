@@ -1,6 +1,4 @@
 ---
-# defined by 003_source/agents
-
 name: 119_dx-optimizer
 description: Optimize developer experience by compressing environment setup to under 5 minutes, automating repetitive tasks, and cutting build and test friction. Use PROACTIVELY when setting up new projects, after team feedback, or whenever development friction is noticed.
 ---

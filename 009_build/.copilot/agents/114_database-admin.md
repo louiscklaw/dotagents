@@ -1,7 +1,5 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/114_database-admin.md
-# defined by 003_source/agents
-
 name: 114_database-admin
 description: Manage database operations, backups, replication, and monitoring. Handles user permissions, maintenance tasks, and disaster recovery. Use PROACTIVELY for database setup, operational issues, or recovery procedures.
 

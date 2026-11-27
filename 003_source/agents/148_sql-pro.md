@@ -1,6 +1,4 @@
 ---
-# defined by 003_source/agents
-
 name: 148_sql-pro
 description: Writes complex SQL with CTEs and window functions, optimizes execution plans via EXPLAIN ANALYZE, and designs normalized schemas. Use PROACTIVELY for query optimization, complex joins, or database design across PostgreSQL/MySQL/SQL Server.
 ---

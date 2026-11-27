@@ -1,9 +1,7 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/100_ai-engineer.md
-# defined by 003_source/agents
-
 name: 100_ai-engineer
-description: Build LLM applications, RAG systems, and prompt pipelines. Implements vector search, agent orchestration, and AI API integrations. Use PROACTIVELY for LLM features, chatbots, or AI-powered applications.
+description: Build LLM applications, RAG systems, and prompt pipelines. Implements vector search, agent orchestration, and AI API integrations. Use PROACTIVELY for LLM features, chat-bots, or AI-powered applications.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.opencode/agents/frontmatter/100_ai-engineer.md
 # opencode

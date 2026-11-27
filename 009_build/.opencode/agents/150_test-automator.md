@@ -1,7 +1,5 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/150_test-automator.md
-# defined by 003_source/agents
-
 name: 150_test-automator
 description: "Create comprehensive test suites with unit, integration, and e2e tests, mocking strategies, test data factories, and CI test pipelines. Use when improving test coverage, automating tests, or wiring tests into CI."
 

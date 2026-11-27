@@ -1,13 +1,12 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/121_frontend-developer.md
-# defined by 003_source/agents
-
 name: 121_frontend-developer
 description: Build React components with hooks, context, and responsive Tailwind or CSS-in-JS styling, enforcing WCAG accessibility and sub-3s performance budgets. Use PROACTIVELY when creating UI components, fixing frontend issues, or wiring client-side state management.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/121_frontend-developer.md
 # section specific configuration for codebuddy
 mainAgent: false
+model: hy4-flash
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

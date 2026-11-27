@@ -1,6 +1,4 @@
 ---
-# defined by 003_source/agents
-
 name: 116_debugger
 description: Debugging specialist for errors, test failures, and unexpected behavior. Use proactively when encountering any issues.
 ---

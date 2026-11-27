@@ -1,7 +1,5 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/120_error-detective.md
-# defined by 003_source/agents
-
 name: 120_error-detective
 description: Search logs and codebases for error patterns, stack traces, and anomalies, correlating failures across distributed systems (Elasticsearch, Splunk) to isolate root causes. Use PROACTIVELY when debugging issues, analyzing logs, or investigating production errors.
 

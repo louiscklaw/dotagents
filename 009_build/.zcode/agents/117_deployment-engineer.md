@@ -1,13 +1,12 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/117_deployment-engineer.md
-# defined by 003_source/agents
-
 name: 117_deployment-engineer
 description: Configure CI/CD pipelines, Docker containers, and cloud deployments. Handles GitHub Actions, Kubernetes, and infrastructure automation. Use PROACTIVELY when setting up deployments, containers, or CI/CD workflows.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/117_deployment-engineer.md
 # section specific configuration for codebuddy
 mainAgent: false
+model: hy4-flash
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

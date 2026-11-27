@@ -1,6 +1,4 @@
 ---
-# defined by 003_source/agents
-
 name: 301_mysql_radxa
 description: "Modify MySQL on radxa (192.168.10.1) exclusively through the `mcp_server_mysql_remote_radxa` MCP tool. Use when a database change targets radxa; rejects any task requiring tools outside this MCP."
 ---

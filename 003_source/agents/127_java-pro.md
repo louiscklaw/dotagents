@@ -1,6 +1,4 @@
 ---
-# defined by 003_source/agents
-
 name: 127_java-pro
 description: Engineer modern Java systems with streams, records, concurrency (CompletableFuture, virtual threads), JVM tuning, Spring Boot, and Project Reactor. Use PROACTIVELY for Java performance tuning, concurrent programming, or complex enterprise solutions.
 ---

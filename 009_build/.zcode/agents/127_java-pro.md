@@ -1,13 +1,12 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/127_java-pro.md
-# defined by 003_source/agents
-
 name: 127_java-pro
 description: Engineer modern Java systems with streams, records, concurrency (CompletableFuture, virtual threads), JVM tuning, Spring Boot, and Project Reactor. Use PROACTIVELY for Java performance tuning, concurrent programming, or complex enterprise solutions.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/127_java-pro.md
 # section specific configuration for codebuddy
 mainAgent: false
+model: hy4-flash
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

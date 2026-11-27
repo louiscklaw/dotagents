@@ -1,7 +1,5 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/126_ios-developer.md
-# defined by 003_source/agents
-
 name: 126_ios-developer
 description: Engineer native iOS applications with Swift and SwiftUI, covering UIKit integration, Core Data, CloudKit, URLSession networking, and App Store-compliant UI. Use PROACTIVELY for iOS feature work, App Store optimization, or native iOS development.
 

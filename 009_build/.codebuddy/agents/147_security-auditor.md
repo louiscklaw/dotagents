@@ -1,7 +1,5 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/147_security-auditor.md
-# defined by 003_source/agents
-
 name: 147_security-auditor
 description: Audits code against the OWASP Top 10 and implements secure auth (JWT, OAuth2, SAML), CORS, CSP, and encryption. Use PROACTIVELY for security reviews, auth flows, or vulnerability fixes.
 

@@ -1,7 +1,5 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/133_mobile-developer.md
-# defined by 003_source/agents
-
 name: 133_mobile-developer
 description: Develop React Native or Flutter apps with native module integration, offline sync, push notifications, and store-ready release builds. Use PROACTIVELY for mobile features, cross-platform code, or app optimization.
 

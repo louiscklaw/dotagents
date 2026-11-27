@@ -1,7 +1,5 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/131_ml-engineer.md
-# defined by 003_source/agents
-
 name: 131_ml-engineer
 description: Implement production ML systems: model serving (TorchServe, TF Serving, ONNX), feature pipelines, A/B testing, and drift monitoring. Use PROACTIVELY for ML model integration or production deployment.
 
@@ -9,6 +7,7 @@ description: Implement production ML systems: model serving (TorchServe, TF Serv
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/131_ml-engineer.md
 # section specific configuration for codebuddy
 mainAgent: false
+model: hy4-flash
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

@@ -1,6 +1,4 @@
 ---
-# defined by 003_source/agents
-
 name: 005_review
 description: Read-only architectural review of code quality, TypeScript strictness, async race conditions, and RethinkDB efficiency; reports findings without modifying anything. Use when you need an expert second opinion before merging or refactoring.
 ---
@@ -31,3 +29,11 @@ You are an Architectural Reviewer operating in review mode with read-only access
 ## Constraints
 
 - Deliver analysis only; the implementing agent applies changes.
+
+## Required Reading
+
+Read before starting any task:
+
+- `<branch>/001_documentation/docs/getting_started.mdx`
+- `<branch>/001_documentation/docs/coding_conventions.mdx`
+- `<branch>/001_documentation/docs/ROLES.mdx`

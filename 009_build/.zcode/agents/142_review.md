@@ -1,7 +1,5 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/142_review.md
-# defined by 003_source/agents
-
 name: 142_review
 description: Executes static, read-only code reviews covering quality, bugs, performance, and security; reports findings without modifying files. Use when reviewing code, PRs, or diffs.
 

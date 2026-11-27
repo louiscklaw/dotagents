@@ -1,6 +1,4 @@
 ---
-# defined by 003_source/agents
-
 name: 200_ticket_handler
 description: "Transform abstract ideas into practical implementation tickets and ordered TODO step lists. Use when the user wants to elaborate an idea, draft a ticket, or break work into steps; writes tickets only, never implements."
 ---

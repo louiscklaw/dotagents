@@ -1,6 +1,4 @@
 ---
-# defined by 003_source/agents
-
 name: 120_error-detective
 description: Search logs and codebases for error patterns, stack traces, and anomalies, correlating failures across distributed systems (Elasticsearch, Splunk) to isolate root causes. Use PROACTIVELY when debugging issues, analyzing logs, or investigating production errors.
 ---

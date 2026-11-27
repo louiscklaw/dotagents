@@ -1,13 +1,12 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/126_ios-developer.md
-# defined by 003_source/agents
-
 name: 126_ios-developer
 description: Engineer native iOS applications with Swift and SwiftUI, covering UIKit integration, Core Data, CloudKit, URLSession networking, and App Store-compliant UI. Use PROACTIVELY for iOS feature work, App Store optimization, or native iOS development.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/126_ios-developer.md
 # section specific configuration for codebuddy
 mainAgent: false
+model: hy4-flash
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

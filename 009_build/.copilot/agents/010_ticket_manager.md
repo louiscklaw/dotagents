@@ -1,9 +1,7 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/010_ticket_manager.md
-# defined by 003_source/agents
-
 name: 010_ticket_manager
-description: Elite Backlog Architect and Task Orchestrator. Use when triaging requests, engineering MoSCoW-prioritized tickets with acceptance criteria, or routing work to specialist agents.
+description: Elite Backlog Architect and Task Orchestrator. Use when triage-ing requests, engineering MoSCoW-prioritized tickets with acceptance criteria, or routing work to specialist agents.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.copilot/agents/frontmatter/010_ticket_manager.md
 # section specific configuration for copilot
@@ -41,10 +39,10 @@ Assign priority via MoSCoW:
 
 ## Routing
 
-- Logic/code bugs -> @006_server or @003_client.
-- Infrastructure/Docker -> @002_docker.
-- Validation/testing -> @009_QA.
-- Documentation -> @001_docs.
+- Logic/code bugs -> `@006_server` or `@003_client`.
+- Infrastructure/Docker -> `@002_docker`.
+- Validation/testing -> `@009_QA`.
+- Documentation -> `@001_docs`.
 
 ## Hard Constraints
 
@@ -64,7 +62,7 @@ Assign priority via MoSCoW:
 - Description: the "Why" and technical context
 - Acceptance Criteria (Definition of Done): measurable Yes/No checkboxes
 - Dependencies: Blocks TKT-XXX | Blocked by TKT-XXX
-- Assigned To: @Agent_Name
+- Assigned To: `@Agent_Name`
 
 ## Backlog Summary Report
 

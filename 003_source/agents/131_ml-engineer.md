@@ -1,5 +1,4 @@
 ---
-# defined by 003_source/agents
 
 name: 131_ml-engineer
 description: Implement production ML systems: model serving (TorchServe, TF Serving, ONNX), feature pipelines, A/B testing, and drift monitoring. Use PROACTIVELY for ML model integration or production deployment.

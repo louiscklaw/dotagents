@@ -1,6 +1,4 @@
 ---
-# defined by 003_source/agents
-
 name: 130_legal-advisor
 description: Draft privacy policies, terms of service, DPAs, and cookie policies compliant with GDPR, CCPA/CPRA, LGPD, and COPPA, with jurisdiction-specific variations. Use PROACTIVELY for legal documentation, compliance texts, or regulatory requirements.
 ---

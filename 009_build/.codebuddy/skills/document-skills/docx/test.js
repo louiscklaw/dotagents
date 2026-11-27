@@ -4,7 +4,7 @@ const { Document, Packer, Paragraph, TextRun, Table, TableRow, TableCell, Headin
 const TABLE_WIDTH = 4680;
 const cellBorders = { 
     top: { style: BorderStyle.SINGLE, size: 1 }, 
-    bottom: { BorderStyle.SINGLE, size: 1 }, // ERROR HERE! Missing key 'style'
+    bottom: { style: BorderStyle.SINGLE, size: 1 },
     left: { style: BorderStyle.SINGLE, size: 1 }, 
     right: { style: BorderStyle.SINGLE, size: 1 } 
 };

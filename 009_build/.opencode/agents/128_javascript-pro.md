@@ -1,7 +1,5 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/128_javascript-pro.md
-# defined by 003_source/agents
-
 name: 128_javascript-pro
 description: Engineer modern JavaScript with ES6+, async patterns, event loop internals, and Node.js/browser compatibility. Use PROACTIVELY for JavaScript optimization, async debugging, TypeScript migration, or complex JS patterns.
 

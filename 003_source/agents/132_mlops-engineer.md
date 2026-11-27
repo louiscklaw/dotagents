@@ -1,6 +1,4 @@
 ---
-# defined by 003_source/agents
-
 name: 132_mlops-engineer
 description: Build ML pipelines, experiment tracking (MLflow, Kubeflow), model registries, and data versioning across AWS, Azure, and GCP. Use PROACTIVELY for ML infrastructure, experiment management, or pipeline automation.
 ---

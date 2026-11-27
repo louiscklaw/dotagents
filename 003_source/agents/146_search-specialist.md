@@ -1,6 +1,4 @@
 ---
-# defined by 003_source/agents
-
 name: 146_search-specialist
 description: Executes deep web research with advanced query formulation, domain filtering, and multi-source fact verification. Use PROACTIVELY for deep research, competitive analysis, fact-checking, or trend analysis.
 ---

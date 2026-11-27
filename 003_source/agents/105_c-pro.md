@@ -1,6 +1,4 @@
 ---
-# defined by 003_source/agents
-
 name: 105_c-pro
 description: Writes production-grade C with strict memory management, pointer discipline, POSIX system-call error handling, and valgrind/gdb verification. Use PROACTIVELY for C code, memory issues, embedded or multithreaded systems programming, or performance optimization.
 ---

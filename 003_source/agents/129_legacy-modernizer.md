@@ -1,6 +1,4 @@
 ---
-# defined by 003_source/agents
-
 name: 129_legacy-modernizer
 description: Execute safe, incremental legacy modernization via strangler fig migrations, dependency updates, and backward-compatible API versioning. Use PROACTIVELY for framework migrations, monolith decomposition, or technical debt reduction.
 ---

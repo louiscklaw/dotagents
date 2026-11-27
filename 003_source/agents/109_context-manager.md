@@ -1,6 +1,4 @@
 ---
-# defined by 003_source/agents
-
 name: 109_context-manager
 description: Maintains coherent context across multiple agents and long-running tasks — capturing decisions, briefing agents, and pruning stale state. Use when coordinating multi-agent workflows, resuming prior sessions, or on projects exceeding 10k tokens.
 ---

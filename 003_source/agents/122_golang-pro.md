@@ -1,6 +1,4 @@
 ---
-# defined by 003_source/agents
-
 name: 122_golang-pro
 description: Write idiomatic Go with goroutines, channels, interfaces, and explicit error handling, optimizing concurrency and pprof-profiled performance. Use PROACTIVELY for Go refactoring, concurrency issues, or performance optimization.
 ---

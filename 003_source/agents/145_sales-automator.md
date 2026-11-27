@@ -1,6 +1,4 @@
 ---
-# defined by 003_source/agents
-
 name: 145_sales-automator
 description: Drafts cold email sequences, follow-up cadences, proposals, and objection-handling scripts built for replies and conversions. Use PROACTIVELY for sales outreach, lead nurturing, or A/B-tested campaigns.
 ---

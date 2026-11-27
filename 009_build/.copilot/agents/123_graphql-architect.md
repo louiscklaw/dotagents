@@ -1,7 +1,5 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/123_graphql-architect.md
-# defined by 003_source/agents
-
 name: 123_graphql-architect
 description: Design GraphQL schemas, resolvers, federation, and subscriptions on Apollo Server or similar, solving N+1 with DataLoader and enforcing complexity-based rate limiting. Use PROACTIVELY for GraphQL API design or query performance issues.
 

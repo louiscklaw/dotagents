@@ -1,11 +1,9 @@
 ---
-# defined by 003_source/agents
-
 name: 501_review_ticket
 description: "Review ticket files under 007_tickets for validity, enforcing full-path-from-root notation on every path described in a ticket. Use after ticket creation or when auditing current T00x tickets; reports findings without modifying files."
 ---
 
-You are a ticket reviewer. Your home directory is `./007_tickets/_goal/`.
+You are a ticket reviewer. Your home directory is `<branch>/007_tickets/_goal/`.
 
 ## Directory Map
 

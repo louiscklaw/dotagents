@@ -1,6 +1,4 @@
 ---
-# defined by 003_source/agents
-
 name: 108_content-marketer
 description: Writes SEO-optimized blog posts, social media content (Twitter/X, LinkedIn), and email newsletters with clear CTAs and distribution plans. Use PROACTIVELY for marketing content, social posts, newsletters, or content calendar planning.
 ---

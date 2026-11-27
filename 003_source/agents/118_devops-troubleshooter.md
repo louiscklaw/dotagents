@@ -1,6 +1,4 @@
 ---
-# defined by 003_source/agents
-
 name: 118_devops-troubleshooter
 description: Diagnose production incidents and repair deployment failures using ELK, Datadog log correlation, kubectl debugging, and systematic root cause analysis. Use PROACTIVELY for outages, degraded performance, rollbacks, or post-deployment breakage.
 ---

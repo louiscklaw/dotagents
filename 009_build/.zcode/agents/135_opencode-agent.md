@@ -1,7 +1,5 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/135_opencode-agent.md
-# defined by 003_source/agents
-
 name: 135_opencode-agent
 description: The primary orchestrator and guide for the opencode ecosystem: `opencode.jsonc` and `.opencode` configuration, agent and skill lifecycle management, and tool optimization. Use when creating or auditing opencode agents and skills, editing configuration, or coordinating multi-agent workflows.
 
@@ -9,6 +7,7 @@ description: The primary orchestrator and guide for the opencode ecosystem: `ope
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/135_opencode-agent.md
 # section specific configuration for codebuddy
 mainAgent: false
+model: hy4-flash
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

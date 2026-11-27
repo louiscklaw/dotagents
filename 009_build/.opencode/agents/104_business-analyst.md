@@ -1,7 +1,5 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/104_business-analyst.md
-# defined by 003_source/agents
-
 name: 104_business-analyst
 description: Analyzes business metrics and produces KPI reports, revenue models, CAC/LTV calculations, cohort retention analyses, and growth projections with stated assumptions. Use PROACTIVELY for business metrics questions, investor updates, or growth analysis.
 

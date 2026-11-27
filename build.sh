@@ -2,10 +2,9 @@
 
 set -ex
 
-node ./build_agents.cjs &
-node ./build_commands.cjs &
+node ./build_agents.cjs
+node ./build_commands.cjs
 
-wait
 
 rsync -avh 003_source/skills 009_build/.codebuddy &
 rsync -avh 003_source/skills 009_build/.copilot &

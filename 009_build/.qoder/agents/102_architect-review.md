@@ -1,7 +1,5 @@
 ---
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/003_source/agents/102_architect-review.md
-# defined by 003_source/agents
-
 name: 102_architect-review
 description: Enforces architectural integrity on code changes — SOLID compliance, dependency direction, layering, and abstraction levels. Use PROACTIVELY after structural changes, new services, new modules, or API modifications, and for reviewing boundary-crossing code.
 
