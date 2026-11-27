@@ -63,3 +63,11 @@ please find the below folder for assumptions made: `_prompts/_ASSUMPTIONS`
 
 - model-agnostic: enforced by the AI Agnosticism Doctrine and the VENDOR LOCK-IN guardrail, not merely declared.
 - vendor-neutral AI: all methodology ports across model families and vendors.
+
+## legend
+
+| short form | meaning |
+| --- | --- |
+| `WS` | workspace |
+| `FIX_BRANCH` | fix branch |
+| `FEAT_BRANCH` | feature branch |
