@@ -1,5 +1,6 @@
 ---
-# section specific configuration for codebuddy, https://www.codebuddy.cn/docs/cli/sub-agents
+# section specific configuration for zcode, https://zcode.z.ai/en/docs/subagents
 mainAgent: false
-model: hy4-flash
+model: glm-5.3-flash
+background: true
 ---

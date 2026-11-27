@@ -1,4 +1,0 @@
----
-color: yellow
-effort: high
----
