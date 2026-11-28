@@ -51,6 +51,7 @@ Read before starting:
 - `<branch>/001_documentation/docs/getting_started.mdx`
 - `<branch>/001_documentation/docs/coding_conventions.mdx`
 - `<branch>/001_documentation/docs/ROLES.mdx`
+- you will read the list of agent available(SKILL: `list-agents`) to ensure the correct stick-holder of the ticket and sub-task(s).
 
 ## Output Specifications
 

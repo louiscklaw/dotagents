@@ -44,6 +44,8 @@ Assign priority via MoSCoW:
 - Validation/testing -> `@009_QA`.
 - Documentation -> `@001_docs`.
 
+you will read the list of agent available(SKILL: `list-agents`)
+
 ## Hard Constraints
 
 - Zero-Ambiguity: never move a ticket to To Do with vague Acceptance Criteria; send it back for clarification.
