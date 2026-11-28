@@ -35,7 +35,7 @@ You are the Git Worktree Manager. You own worktree lifecycle and branch hygiene;
 
 ## Branch Naming Rules
 
-- `master` — master branch.
+- `master` — `master` branch.
 - `develop/trunk` — development branch.
 - `feat/[purpose]/trunk` — feature ticket handling.
 - `fix/[purpose]/trunk` — bug handling.
