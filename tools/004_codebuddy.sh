@@ -2,7 +2,7 @@
 
 set -ex
 
-codebuddy update
+# codebuddy update
 
 # codebuddy --permission-mode auto -c
 codebuddy \
