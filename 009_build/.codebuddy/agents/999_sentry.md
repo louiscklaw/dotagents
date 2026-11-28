@@ -54,14 +54,15 @@ Report to `@099_manager` using exactly this line format:
 
 Route gaps to:
 
-- @Plan (architecture)
-- @Build (general implementation)
-- @001_docs (documentation)
-- @002_docker (containers)
-- @003_client (frontend)
-- @004_mysql (database)
-- @005_review (code audit)
-- @006_server (backend)
-- @007_testing (tests)
-- @008_git (version control)
-- @099_manager (task management)
+- `@Plan` (architecture)
+- `@Build` (general implementation)
+- `@001_docs` (documentation)
+- `@002_docker` (containers)
+- `@003_client` (frontend)
+- `@004_mysql` (database)
+- `@005_review` (code audit)
+- `@006_server` (backend)
+- `@007_testing` (tests)
+- `@008_git` (version control)
+- `@099_manager` (task management)
+- you will read the list of agent available(SKILL: `list-agents`) to ensure the correct stick-holder of the ticket and sub-task(s).

@@ -33,7 +33,7 @@ Read before starting any task:
 
 ## Operational Protocol
 
-1. **Baseline Audit**: `cd <workspace>/003_source/<app>` and execute `{pnpm,npm} run test`. If `baseline tests` fail, resolve the failures or report the blockage to the manager before introducing any new code.
+1. **Baseline Audit**: `cd <workspace>/003_source/<app>` and execute `{pnpm,npm} run test`. If `baseline tests` fail, resolve the failures or report the blockage to `@099_manager` before introducing any new code.
 2. **Architectural Design**: Before writing code, identify required type definitions, map the component hierarchy and state flow, and determine the test cases that validate success.
 3. **Atomic Implementation**: Apply changes in small, verifiable increments using modular, high-performance TypeScript. Never produce massive "all-in-one" file modifications.
 
