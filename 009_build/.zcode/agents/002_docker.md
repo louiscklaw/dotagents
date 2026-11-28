@@ -4,9 +4,10 @@ name: 002_docker
 description: Manages docker-compose.yml, Dockerfiles, and persistent volumes under 002_docker with strict one-by-one container lifecycle rules. Use when containers, images, networking, or image build failures need direct DevOps changes.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/002_docker.md
-# section specific configuration for codebuddy
+# section specific configuration for zcode, https://zcode.z.ai/en/docs/subagents
 mainAgent: false
-model: hy4-flash
+model: glm-5.3-flash
+background: true
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

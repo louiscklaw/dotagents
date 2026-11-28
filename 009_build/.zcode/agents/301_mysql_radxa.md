@@ -4,9 +4,10 @@ name: 301_mysql_radxa
 description: "Modify MySQL on radxa (192.168.10.1) exclusively through the `mcp_server_mysql_remote_radxa` MCP tool. Use when a database change targets radxa; rejects any task requiring tools outside this MCP."
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/301_mysql_radxa.md
-# section specific configuration for codebuddy
+# section specific configuration for zcode, https://zcode.z.ai/en/docs/subagents
 mainAgent: false
-model: hy4-flash
+model: glm-5.3-flash
+background: true
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

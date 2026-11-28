@@ -4,7 +4,9 @@ name: 112_data-engineer
 description: Build ETL pipelines, data warehouses, and streaming architectures. Implements Spark jobs, Airflow DAGs, and Kafka streams. Use PROACTIVELY for data pipeline design or analytics infrastructure.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/112_data-engineer.md
-effort: high
+model: glm-5.3-flash
+background: false
+effort: max
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

@@ -4,9 +4,10 @@ name: 006_server
 description: Backend engineer confined to 003_source/server — develops backend logic and makes direct server-side changes, including package.json. Use for server features, fixes, or dependency updates.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/006_server.md
-# section specific configuration for codebuddy
+# section specific configuration for zcode, https://zcode.z.ai/en/docs/subagents
 mainAgent: false
-model: hy4-flash
+model: glm-5.3-flash
+background: true
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

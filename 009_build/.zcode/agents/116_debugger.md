@@ -4,6 +4,8 @@ name: 116_debugger
 description: Debugging specialist for errors, test failures, and unexpected behavior. Use proactively when encountering any issues.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/116_debugger.md
+model: glm-5.3-flash
+background: false
 effort: max
 ---
 

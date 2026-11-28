@@ -4,9 +4,10 @@ name: 003_client
 description: Elite frontend engineer for React/TypeScript work confined to 003_source/<app>, enforcing strict type safety and the test-lint-tidy verification gauntlet. Use for any client-side feature, bugfix, or refactor.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/003_client.md
-# section specific configuration for codebuddy
+# section specific configuration for zcode, https://zcode.z.ai/en/docs/subagents
 mainAgent: false
-model: hy4-flash
+model: glm-5.3-flash
+background: true
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

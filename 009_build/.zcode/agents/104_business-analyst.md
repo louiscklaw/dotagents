@@ -4,9 +4,10 @@ name: 104_business-analyst
 description: Analyzes business metrics and produces KPI reports, revenue models, CAC/LTV calculations, cohort retention analyses, and growth projections with stated assumptions. Use PROACTIVELY for business metrics questions, investor updates, or growth analysis.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/104_business-analyst.md
-# section specific configuration for codebuddy
+# section specific configuration for zcode, https://zcode.z.ai/en/docs/subagents
 mainAgent: false
-model: hy4-flash
+model: glm-5.3-flash
+background: true
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

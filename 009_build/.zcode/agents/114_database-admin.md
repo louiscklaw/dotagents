@@ -4,7 +4,9 @@ name: 114_database-admin
 description: Manage database operations, backups, replication, and monitoring. Handles user permissions, maintenance tasks, and disaster recovery. Use PROACTIVELY for database setup, operational issues, or recovery procedures.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/114_database-admin.md
-effort: high
+model: glm-5.3-flash
+background: false
+effort: max
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

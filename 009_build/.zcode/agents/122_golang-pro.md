@@ -4,9 +4,10 @@ name: 122_golang-pro
 description: Write idiomatic Go with goroutines, channels, interfaces, and explicit error handling, optimizing concurrency and pprof-profiled performance. Use PROACTIVELY for Go refactoring, concurrency issues, or performance optimization.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/122_golang-pro.md
-# section specific configuration for codebuddy
+# section specific configuration for zcode, https://zcode.z.ai/en/docs/subagents
 mainAgent: false
-model: hy4-flash
+model: glm-5.3-flash
+background: true
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

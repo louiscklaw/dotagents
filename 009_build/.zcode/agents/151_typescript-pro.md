@@ -4,9 +4,10 @@ name: 151_typescript-pro
 description: "Engineer advanced TypeScript systems covering generics, conditional and mapped types, strict compiler configuration, decorators, and enterprise-grade patterns. Use when designing type systems, optimizing type inference, or hardening code with strict types."
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/151_typescript-pro.md
-# section specific configuration for codebuddy
+# section specific configuration for zcode, https://zcode.z.ai/en/docs/subagents
 mainAgent: false
-model: hy4-flash
+model: glm-5.3-flash
+background: true
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

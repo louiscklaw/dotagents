@@ -4,9 +4,10 @@ name: 128_javascript-pro
 description: Engineer modern JavaScript with ES6+, async patterns, event loop internals, and Node.js/browser compatibility. Use PROACTIVELY for JavaScript optimization, async debugging, TypeScript migration, or complex JS patterns.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/128_javascript-pro.md
-# section specific configuration for codebuddy
+# section specific configuration for zcode, https://zcode.z.ai/en/docs/subagents
 mainAgent: false
-model: hy4-flash
+model: glm-5.3-flash
+background: true
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

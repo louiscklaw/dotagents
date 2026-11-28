@@ -4,9 +4,10 @@ name: 132_mlops-engineer
 description: Build ML pipelines, experiment tracking (MLflow, Kubeflow), model registries, and data versioning across AWS, Azure, and GCP. Use PROACTIVELY for ML infrastructure, experiment management, or pipeline automation.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/132_mlops-engineer.md
-# section specific configuration for codebuddy
+# section specific configuration for zcode, https://zcode.z.ai/en/docs/subagents
 mainAgent: false
-model: hy4-flash
+model: glm-5.3-flash
+background: true
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

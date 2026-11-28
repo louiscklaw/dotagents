@@ -4,7 +4,7 @@ name: 099_manager
 description: Expert Technical Project Manager and LLM Orchestrator. Use when decomposing complex requests, delegating to specialist agents, or tracking verified multi-phase execution. (handles Subagent Orchestration)
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/099_manager.md
-# section specific configuration for codebuddy
+# section specific configuration for zcode, https://zcode.z.ai/en/docs/subagents
 # https://www.tencentcloud.com/zh/document/product/1316/84444
 permissionMode: acceptEdits
 # skills: api-regression-test, e2e-regression-test, full-regression-test
@@ -51,6 +51,7 @@ Read before starting:
 - `<branch>/001_documentation/docs/getting_started.mdx`
 - `<branch>/001_documentation/docs/coding_conventions.mdx`
 - `<branch>/001_documentation/docs/ROLES.mdx`
+- you will read the list of agent available(SKILL: `list-agents`) to ensure the correct stick-holder of the ticket and sub-task(s).
 
 ## Output Specifications
 

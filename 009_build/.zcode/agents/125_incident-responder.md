@@ -4,9 +4,10 @@ name: 125_incident-responder
 description: Coordinate production incident response with severity triage (P0-P3), rollback-first stabilization, 15-minute status updates, and post-mortem documentation. Use IMMEDIATELY when production is down or degraded.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/125_incident-responder.md
-# section specific configuration for codebuddy
+# section specific configuration for zcode, https://zcode.z.ai/en/docs/subagents
 mainAgent: false
-model: hy4-flash
+model: glm-5.3-flash
+background: true
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

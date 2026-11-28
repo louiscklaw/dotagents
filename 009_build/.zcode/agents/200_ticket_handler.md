@@ -4,9 +4,10 @@ name: 200_ticket_handler
 description: "Transform abstract ideas into practical implementation tickets and ordered TODO step lists. Use when the user wants to elaborate an idea, draft a ticket, or break work into steps; writes tickets only, never implements."
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/200_ticket_handler.md
-# section specific configuration for codebuddy
+# section specific configuration for zcode, https://zcode.z.ai/en/docs/subagents
 mainAgent: false
-model: hy4-flash
+model: glm-5.3-flash
+background: true
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

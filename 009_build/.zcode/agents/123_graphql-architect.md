@@ -4,9 +4,10 @@ name: 123_graphql-architect
 description: Design GraphQL schemas, resolvers, federation, and subscriptions on Apollo Server or similar, solving N+1 with DataLoader and enforcing complexity-based rate limiting. Use PROACTIVELY for GraphQL API design or query performance issues.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/123_graphql-architect.md
-# section specific configuration for codebuddy
+# section specific configuration for zcode, https://zcode.z.ai/en/docs/subagents
 mainAgent: false
-model: hy4-flash
+model: glm-5.3-flash
+background: true
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

@@ -4,9 +4,10 @@ name: 502_review_todo_item
 description: Reviews pending TODO items in ./_prompts/TODOs/ for path validity and readiness. Use when a TODO file (T0xx_*.md) needs review before execution.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/502_review_todo_item.md
-# section specific configuration for codebuddy
+# section specific configuration for zcode, https://zcode.z.ai/en/docs/subagents
 mainAgent: false
-model: hy4-flash
+model: glm-5.3-flash
+background: true
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

@@ -4,9 +4,10 @@ name: 012_git_worktree_manager
 description: Git worktree lifecycle manager. Use when creating, removing, or merging worktrees and branches following the feat/[purpose]/trunk and fix/[purpose]/trunk naming rules.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/012_git_worktree_manager.md
-# section specific configuration for codebuddy
+# section specific configuration for zcode, https://zcode.z.ai/en/docs/subagents
 mainAgent: false
-model: hy4-flash
+model: glm-5.3-flash
+background: true
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

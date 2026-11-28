@@ -4,7 +4,9 @@ name: 111_customer-support
 description: Handle support tickets, FAQ responses, and customer emails. Creates help docs, troubleshooting guides, and canned responses. Use PROACTIVELY for customer inquiries or support documentation.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/111_customer-support.md
-effort: high
+model: glm-5.3-flash
+background: false
+effort: max
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

@@ -4,7 +4,9 @@ name: 115_database-optimizer
 description: Optimize SQL queries, design efficient indexes, and handle database migrations. Solves N+1 problems, slow queries, and implements caching. Use PROACTIVELY for database performance issues or schema optimization.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/115_database-optimizer.md
-effort: high
+model: glm-5.3-flash
+background: false
+effort: max
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

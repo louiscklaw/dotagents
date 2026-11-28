@@ -4,7 +4,9 @@ name: 109_context-manager
 description: Maintains coherent context across multiple agents and long-running tasks — capturing decisions, briefing agents, and pruning stale state. Use when coordinating multi-agent workflows, resuming prior sessions, or on projects exceeding 10k tokens.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/109_context-manager.md
-effort: high
+model: glm-5.3-flash
+background: false
+effort: max
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

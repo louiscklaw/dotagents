@@ -4,9 +4,10 @@ name: 800_programmer
 description: Elite frontend engineer for 003_source/client. Use when implementing, refactoring, or debugging client code and the test → lint → tidy verification gate must pass.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/800_programmer.md
-# section specific configuration for codebuddy
+# section specific configuration for zcode, https://zcode.z.ai/en/docs/subagents
 mainAgent: false
-model: hy4-flash
+model: glm-5.3-flash
+background: true
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

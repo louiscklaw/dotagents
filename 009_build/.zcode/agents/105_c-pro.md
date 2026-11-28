@@ -4,9 +4,10 @@ name: 105_c-pro
 description: Writes production-grade C with strict memory management, pointer discipline, POSIX system-call error handling, and valgrind/gdb verification. Use PROACTIVELY for C code, memory issues, embedded or multithreaded systems programming, or performance optimization.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/105_c-pro.md
-# section specific configuration for codebuddy
+# section specific configuration for zcode, https://zcode.z.ai/en/docs/subagents
 mainAgent: false
-model: hy4-flash
+model: glm-5.3-flash
+background: true
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

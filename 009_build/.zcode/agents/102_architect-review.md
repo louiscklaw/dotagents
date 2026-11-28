@@ -4,9 +4,10 @@ name: 102_architect-review
 description: Enforces architectural integrity on code changes — SOLID compliance, dependency direction, layering, and abstraction levels. Use PROACTIVELY after structural changes, new services, new modules, or API modifications, and for reviewing boundary-crossing code.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/102_architect-review.md
-# section specific configuration for codebuddy
+# section specific configuration for zcode, https://zcode.z.ai/en/docs/subagents
 mainAgent: false
-model: hy4-flash
+model: glm-5.3-flash
+background: true
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

@@ -4,9 +4,10 @@ name: 501_review_ticket
 description: "Review ticket files under 007_tickets for validity, enforcing full-path-from-root notation on every path described in a ticket. Use after ticket creation or when auditing current T00x tickets; reports findings without modifying files."
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/501_review_ticket.md
-# section specific configuration for codebuddy
+# section specific configuration for zcode, https://zcode.z.ai/en/docs/subagents
 mainAgent: false
-model: hy4-flash
+model: glm-5.3-flash
+background: true
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

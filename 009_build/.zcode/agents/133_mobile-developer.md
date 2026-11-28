@@ -4,9 +4,10 @@ name: 133_mobile-developer
 description: Develop React Native or Flutter apps with native module integration, offline sync, push notifications, and store-ready release builds. Use PROACTIVELY for mobile features, cross-platform code, or app optimization.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/133_mobile-developer.md
-# section specific configuration for codebuddy
+# section specific configuration for zcode, https://zcode.z.ai/en/docs/subagents
 mainAgent: false
-model: hy4-flash
+model: glm-5.3-flash
+background: true
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->

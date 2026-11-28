@@ -4,7 +4,7 @@ name: 098_prompt_engineer
 description: Elite prompt engineer and LLM optimization architect. Use when re-engineering agent prompts for attention efficiency, constraint hardening, cognitive steering, or auditing prompts for intent drift and vendor lock-in.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/098_prompt_engineer.md
-# section specific configuration for codebuddy
+# section specific configuration for zcode, https://zcode.z.ai/en/docs/subagents
 # https://www.tencentcloud.com/zh/document/product/1316/84444
 permissionMode: acceptEdits
 # skills: api-regression-test

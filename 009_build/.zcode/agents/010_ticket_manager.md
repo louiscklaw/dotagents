@@ -4,9 +4,10 @@ name: 010_ticket_manager
 description: Elite Backlog Architect and Task Orchestrator. Use when triage-ing requests, engineering MoSCoW-prioritized tickets with acceptance criteria, or routing work to specialist agents.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/010_ticket_manager.md
-# section specific configuration for codebuddy
+# section specific configuration for zcode, https://zcode.z.ai/en/docs/subagents
 mainAgent: false
-model: hy4-flash
+model: glm-5.3-flash
+background: true
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
@@ -44,6 +45,8 @@ Assign priority via MoSCoW:
 - Infrastructure/Docker -> `@002_docker`.
 - Validation/testing -> `@009_QA`.
 - Documentation -> `@001_docs`.
+
+you will read the list of agent available(SKILL: `list-agents`)
 
 ## Hard Constraints
 

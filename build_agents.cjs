@@ -10,7 +10,7 @@ const AGENTS_NAME = fs
   .map((file) => path.basename(file, '.md'))
   .sort();
 const TOOLS_NAME = ['.codebuddy',
-  // '.qoder','.copilot','.opencode','.zcode'
+  '.qoder','.copilot','.opencode','.zcode'
 ];
 
 // Split a markdown file into the inner lines of its leading `---` ... `---`

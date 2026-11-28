@@ -4,9 +4,10 @@ name: 129_legacy-modernizer
 description: Execute safe, incremental legacy modernization via strangler fig migrations, dependency updates, and backward-compatible API versioning. Use PROACTIVELY for framework migrations, monolith decomposition, or technical debt reduction.
 
 # /home/logic/_wsl_workspace/001_github_ws/dotagents/008_tools_customize/.zcode/agents/frontmatter/129_legacy-modernizer.md
-# section specific configuration for codebuddy
+# section specific configuration for zcode, https://zcode.z.ai/en/docs/subagents
 mainAgent: false
-model: hy4-flash
+model: glm-5.3-flash
+background: true
 ---
 
 <!--  this code managed by git@github.com:louiscklaw/dotagents.git -->
