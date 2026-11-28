@@ -1,0 +1,106 @@
+Usage: codebuddy|cbc [options] [command] [prompt]
+
+CodeBuddy Code - starts an interactive session by default, use -p/--print for
+non-interactive output
+
+Arguments:
+prompt Your prompt
+
+Options:
+-V, --version output the version number
+-d, --debug [filter] Enable debug mode with optional category filtering (e.g., "api,hooks" or "!statsig,!file") (default: false)
+--verbose Override verbose mode setting from config (default: false)
+-p, --print Print response and exit (useful for pipes) (default: false)
+--output-format <format> Output format for --print: "text" (default), "json" (one final result) or "stream-json" (streamed in real time) (default: "text")
+--input-format <format> Input format, used only with --print: "text" (the default) or "stream-json" for streaming input in real time (choices: "text", "stream-json") (default: "text")
+--json-schema <schema> Validate structured output against this JSON Schema. Example: {"type":"object","properties":{"name":{"type":"string"}},"required":["name"]}
+--include-partial-messages Output raw SSE incremental messages from model requests (only works with --output-format stream-json) (default: false)
+-y, --dangerously-skip-permissions Bypass permission prompts (HIGH/CRITICAL still ask). Isolated-sandbox full pass: CODEBUDDY_IS_SANDBOX=1 (process env only; high-risk). (default: false)
+--permission-mode <mode> Default permission mode for this process (TUI, --serve Web, ACP). Choices: acceptEdits, bypassPermissions, default, plan, dontAsk, auto. Does not write settings.
+--permission-mode-before-plan <mode> Permission mode to restore when exiting plan mode
+--subagent-permission-mode <mode> Default permission mode for subagents/teammates (choices: "acceptEdits", "bypassPermissions", "default", "plan", "dontAsk", "auto"). Overrides inheritance from main session.
+--tools <value> Restrict which built-in tools CodeBuddy can use. Use "" to disable all, "default" for all, or comma-separated tool names like "Bash,Edit,Read".
+--allowedTools <tools...> Tool names to allow, separated by commas or spaces (e.g. "Bash(git:_) Edit")
+--disallowedTools <tools...> Tool names to deny, separated by commas or spaces (e.g. "Bash(git:_) Edit")
+--mcp-config <fileOrString> Load MCP servers from a JSON file or string
+--channels <value> Enable specific channels (comma-separated: plugin:name@marketplace or server:configName)
+--dangerously-load-development-channels <value> During research preview: bypass allowlist for specific channels (development only, requires confirmation)
+-c, --continue Continue the most recent conversation (default: false)
+-r, --resume [sessionId] Resume a conversation - provide a session ID or interactively select a conversation to resume (default: false)
+-w, --worktree [name] Create a git worktree and start the session in it (optionally specify a name, PR number like "#123", or PR URL)
+--worktree-branch <branch> Base branch for the worktree (defaults to remote default branch, requires --worktree)
+--tmux Create worktree in a new tmux session (requires --worktree) (default: false)
+--tmux-classic Use classic tmux mode instead of iTerm2 integration (requires --tmux) (default: false)
+--model <model> Model for the current session. Please provide the model ID. Currently supported: (hy4std, hy4flash-free, hy4flash, deepseek-v4.1-flash, glm-5.3, glm-5.3-flash, glm-5.2, space-bunny, minimax-m3.1-flash, minimax-m2.7, kimi-k3.1-pro, kimi-k3-1, kimi-k2.8-preview, deepseek-v4-pro, step-5-preview, mimo-v2.6-pro)
+--text-to-image-model <model> Model for text-to-image generation
+--image-to-image-model <model> Model for image-to-image editing
+--fallback-model <model> Model to switch to automatically when the default model is overloaded (--print only)
+--add-dir <directories...> Extra directories that tools may access
+--ide Connect to the IDE at startup when exactly one valid IDE is found (default: false)
+-v, --version Output the version number (default: false)
+--strict-mcp-config Use just the MCP servers given by --mcp-config and ignore every other MCP configuration (default: false)
+--session-id <uuid> Use a specific session ID for the conversation (supports letters, numbers, hyphens, underscores, and colons, but must start with a letter or number)
+--resume-create-missing With --resume: when the target session no longer exists, start a new empty session with the same id instead of failing (job worker respawn recovery path; explicit user --resume still errors)
+--no-session-persistence Disable session persistence - sessions stay in memory and are not saved to disk
+-H, --header <headers...> Custom HTTP headers for model requests (format: "Header-Key: Header-Value")
+--serve Start HTTP server (Web UI, REST API, ACP over HTTP SSE). Without --acp, ACP does not use stdio. (default: false)
+--open Open Web UI in browser after startup (default: false)
+--port <number> Port for HTTP server (default: auto-assign; interactive mode reuses a stable port)
+--host <string> Host address to bind HTTP server (default: 127.0.0.1) (default: "127.0.0.1")
+--base-path <path> Public URL path prefix for the Web UI (e.g. /cnb-5gg-1k09dqp5v-001). Also CODEBUDDY_GATEWAY_BASE_PATH.
+--auth <mode> HTTP server authentication mode (only applies with --serve). Defaults to "password"; "none" disables auth and lets any local process execute commands and read/write files through the server (choices: "password", "none")
+--brief Enable the SendUserMessage tool so the agent can message the user (default: false)
+--acp Start in ACP (Agent Client Protocol) mode - enables communication via stdin/stdout using ndJsonStream (default: false)
+--acp-transport <transport> ACP transport (only works with --acp): "stdio" (default) or "streamable-http" (default: "stdio")
+--sandbox [url] Run CodeBuddy in sandbox: "container" for Docker/Podman, or E2B API URL (must be complete URL like https://api.e2b.dev)
+--sandbox-upload-dir Upload current working directory to sandbox (E2B only) (default: false)
+--sandbox-new Force create a new sandbox (ignore cached sandbox) (default: false)
+--sandbox-id <id> Connect to specific sandbox ID
+--sandbox-kill Kill sandbox on exit (default: keep alive for reuse) (default: false)
+--teleport <value> Teleport to existing sandbox (format: session_{cliSessionId})
+--max-turns <number> Limit the number of agentic turns
+--effort <level> Reasoning effort level (minimal, low, medium, high, xhigh, max)
+--autocompact <auto|tokens> Auto-compact window size: "auto" follows the model window, or a token count (e.g. 400000, 400k, 1m; clamped to 100k-1M)
+--teleport <value> Teleport to existing sandbox (format: 0010${sandboxId}${randomNumber} for e2b, 0020${sandboxId}${randomNumber} for cvm)
+--system-prompt <prompt> Override the system prompt for this session
+--system-prompt-file <path> Load system prompt from a file
+--append-system-prompt <prompt> Append additional content to the system prompt
+--prompt-vars-file <path> Load prompt template variables from a JSON file
+--agent <agent> Default main agent for this process (TUI, --print/headless, --serve Web, ACP). Headless tool use must be pre-authorized (for example with -y). Overrides lastUsed for new sessions; does not write settings.
+--tool-mode <mode> 选择独立工具策略，不改变代理角色或权限 (choices: "cli", "ptc", "minimal", "create")
+--multitask Turn on Multitask overlay (normalized to --agent multitask). Not available in Minimal. Does not change Standard/PTC/Create. Interactive TTY only. (default: false)
+--agents <json> Custom agents as a JSON object (e.g. '{"reviewer": {"description": "Reviews code", "prompt": "You are a code reviewer"}}')
+--settings <file-or-json> Extra settings to load, given as a settings JSON file path or an inline JSON string
+--setting-sources <sources> Setting sources to load, as a comma-separated list of user, project and local. Default: user,project,local
+--fork-session When resuming, start under a new session ID rather than the original one (use with --resume or --continue)
+--replay-user-messages Echo each user message read from stdin back on stdout as an acknowledgment (requires --input-format=stream-json and --output-format=stream-json)
+--remote-control [client] Connect to remote control service. Without args: AgentOS mode. With client type (e.g. wecom): auto-connect specified client
+--plugin-dir <dirs...> Load plugins from local directories (for development/testing). Can specify multiple paths.
+--bg Run the session in the background (detached) (default: false)
+--background Alias for --bg (default: false)
+--name <name> Name for background session (used with --bg)
+--exec <command> With --bg: run a shell command as a background job instead of a model session
+--swarm Enable swarm mode: teammates run as independent processes (tmux visualization if available, otherwise background with Web UI) (default: false)
+-h, --help display help for command
+
+Commands:
+config Manage configuration (eg. codebuddy config set -g theme dark)
+mcp Configure and manage MCP servers
+sandbox Manage sandboxes
+plugin|plugins [options] Manage CodeBuddy Code plugins
+project Manage CodeBuddy Code project state
+doctor Check the health of your CodeBuddy Code auto-updater
+update Check for updates and install if available
+install [target] Install CodeBuddy Code native build. Use [target] to specify version (latest, or specific version)
+cleanup [options] Clean up expired local CodeBuddy data
+daemon Manage the daemon supervisor process
+ps [options] List all active sessions (interactive, background, daemon)
+logs [options] <pidOrName> Show logs for a background session
+attach <pidOrName> Attach to a running background session
+kill <pidOrName> Terminate a background session
+stop <pidOrName> Stop a background session (alias for kill)
+rm <idOrName> Remove a background session from agent view (the transcript stays on your machine)
+respawn [options] [idOrName] Restart a background session with its conversation intact
+agents [options] Open agent view to dispatch and manage background sessions
+auto-mode Inspect the auto mode reviewer policy
+agents [options] List configured agents grouped by source (user, project, managed, plugin, cli-arg, built-in); requires --json
